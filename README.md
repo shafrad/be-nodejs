@@ -33,8 +33,6 @@ Edit the config.json in the config folder
 - Local
 ```
 $ sequelize db:migrate
-
-$ sql-migrate up
 ```
 
 - Staging
