@@ -69,3 +69,8 @@ seharusnya itu tidak dijadikan satu dengan sukses respon, karena sebuah respon e
 
 Kemudian untuk kekurangannya adalah meta pada masing-masing sukses responnya, yang terdiri atas total datanya dan jumlah halaman. Data tersebut digunakan nantinya oleh frontend dalam hal pagination. 
 ```
+
+## Screenshot
+```
+![alt text](https://drive.google.com/file/d/17KO3AJQ_-hnn4UGcZjygmN2IXcVKKcFG/view?usp=sharing)
+```
