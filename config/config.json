@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "be_express",
+    "username": "db_username",
+    "password": "db_password",
+    "database": "db_name",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
