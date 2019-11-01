@@ -73,4 +73,20 @@ Kemudian untuk kekurangannya adalah meta pada masing-masing sukses responnya, ya
 ## Screenshot
 ```
 ![alt text](https://drive.google.com/file/d/17KO3AJQ_-hnn4UGcZjygmN2IXcVKKcFG/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1Xy0W31wuYsKj_Eav91y9B_vusDkksaCe/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1X0YpdWD__fhrBpe4_xN81muD8flznr8Z/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1D0Jpr7uWim_AuMSQqitkjE4Ghg_Grslk/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1qrPthwYpdBeJO2d1qkPop7S1g4MwCQjb/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1TM6ST9kDTd3tzwJCVPID9TA_JbSIHmlS/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1lCyTMW3Jg_dWY9K_3I7HWyczT7AWabBu/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1jyJ0ghEmjI3nRFlA6AeQwO-uw3V83xit/view?usp=sharing)
+
+![alt text](https://drive.google.com/file/d/1TDpbbOnJvr9ZPWxkiF9B4BbMq-GC6i6N/view?usp=sharing)
 ```
